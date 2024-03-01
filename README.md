@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### Configuration
 
-- **Discord Token & OpenAI API Key**: You need to create a .env file at the root of the project directory and add your Discord token and OpenAI API key as follows:
+- **Discord Token & OpenAI API Key**: You need to create a config.py file or use the provided one at the root of the project directory and add your Discord token and OpenAI API key as follows:
 
 ```python
 DISCORD_TOKEN=your_discord_bot_token
