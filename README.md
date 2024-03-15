@@ -9,6 +9,8 @@ This project is a Discord chatbot that integrates OpenAI's GPT models to interac
 - **Dynamic Personality**: Allows the bot's personality to be changed on the fly via a special command.
 - **Message History Management**: Keeps track of recent messages to provide context to the AI model for more relevant responses.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Usage
 
 To run the bot, just execute the following command:
