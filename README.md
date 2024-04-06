@@ -1,6 +1,10 @@
+<div align="center">
+
 # DiscordGPT - ChatGPT inside your Discord server!
 
 This project is a Discord chatbot that integrates OpenAI's GPT models to interact with users in a Discord channel. It allows for dynamic responses based on user input, leveraging OpenAI's powerful natural language processing capabilities. The bot also supports updating its "personality" through a specific command, making it versatile in its interactions.
+
+</div>
 
 ## Features
 
@@ -9,7 +13,11 @@ This project is a Discord chatbot that integrates OpenAI's GPT models to interac
 - **Dynamic Personality**: Allows the bot's personality to be changed on the fly via a special command.
 - **Message History Management**: Keeps track of recent messages to provide context to the AI model for more relevant responses.
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Usage
 
