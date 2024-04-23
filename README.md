@@ -33,6 +33,12 @@ At the moment the bot is just a prototype so it only has 1 command:
 - `/personality`: Updates the bot's personality based on the provided text. This affects how the bot responds to messages.
 - More coming soon.
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Installation
 
 Clone the Repository
