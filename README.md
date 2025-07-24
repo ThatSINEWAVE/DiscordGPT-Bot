@@ -35,7 +35,7 @@ At the moment the bot is just a prototype so it only has 1 command:
 
 <div align="center">
 
-# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
 
 </div>
 
